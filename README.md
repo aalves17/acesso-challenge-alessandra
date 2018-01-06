@@ -11,3 +11,6 @@ Tabelas: - dados
 
 Usuário previamente criado: - login: aalves
                             - senha: 210694
+
+
+* A página inicial para login/cadastro é index.php
