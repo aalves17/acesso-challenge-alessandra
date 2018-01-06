@@ -1,0 +1,70 @@
+body{
+  background: #eee url(http://subtlepatterns.com/patterns/dust_scratches.png);
+}
+
+html,body{
+    position: relative;
+    height: 100%;
+}
+
+.container{
+    position: relative;
+    width: 300px;
+    margin: 80px auto;
+    padding: 20px 40px 20px;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #ccc;
+}
+
+.estiloForm input{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    height:40px;
+    border: 1px solid #ccc;;
+    background: #fafafa;
+    transition:0.2s ease-in-out;
+
+}
+
+.estiloForm input:focus{
+    outline: 0;
+    background: #eee;
+}
+
+.estiloForm input[type="text"]{
+    border-radius: 5px 5px 0 0;
+    text-transform: lowercase;
+}
+
+.estiloForm input[type="password"]{
+    border-radius: 0 0 5px 5px;
+    border-top: 0;
+}
+
+.estiloForm button.login{
+    margin-top:15px;
+    padding: 10px 20px;
+}
+
+
+.panel-login>.grid-escolha {
+  color: #00415d;
+  background-color: #fff;
+  border-color: #fff;
+  text-align:center;
+}
+.panel-login>.grid-escolha a{
+  text-decoration: none;
+  color: #666;
+  font-weight: bold;
+  font-size: 15px;
+  -webkit-transition: all 0.1s linear;
+  -moz-transition: all 0.1s linear;
+  transition: all 0.1s linear;
+}
+.panel-login>.grid-escolha a.active{
+  color: #029f5b;
+  font-size: 18px;
+}

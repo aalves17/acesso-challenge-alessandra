@@ -1,0 +1,34 @@
+body{
+  background: #eee url(http://subtlepatterns.com/patterns/dust_scratches.png);
+}
+
+html,body{
+    position: relative;
+    height: 100%;
+}
+
+.navbar{
+    position: relative;
+    width: auto;
+    color: white;
+    text-align: center;
+    background: black;
+    font-family: 'Armata';
+}
+
+.container{
+    position: relative;
+    width: 500px;
+    font-family: 'Armata';
+}
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:black;
+   text-align: center;
+   color: white;
+}

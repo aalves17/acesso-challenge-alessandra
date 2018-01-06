@@ -1,0 +1,74 @@
+body{
+  background: #eee url(http://subtlepatterns.com/patterns/dust_scratches.png);
+}
+
+
+html,body{
+    position: relative;
+    height: 100%;
+}
+
+.navbar{
+    position: relative;
+    width: auto;
+    color: white;
+    text-align: center;
+    background: black;
+    font-family: 'Armata';
+}
+
+.container{
+    position: relative;
+    width: auto;
+    font-family: 'Armata';
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #D6DBDF;
+}
+
+.tabelaLista{
+  width: 700px;
+  position: relative;
+  align-content: center;
+  margin:auto;
+}
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:black;
+   text-align: center;
+   color: white;
+}
+
+#btn-danger {
+color: #fff;
+background-color: #d9534f;
+border-color: #d43f3a;
+font-size: 12px;
+padding: 9px;
+border-radius: 5px;
+text-decoration: none;
+}
+
+#btn-danger:hover{
+background-color:#bd2130;
+}
+
+#btn-edit {
+color: #fff;
+background-color: #28a745;
+border-color: #d43f3a;
+font-size: 12px;
+padding: 9px;
+border-radius: 5px;
+text-decoration: none;
+}
+
+#btn-edit:hover{
+background-color:#1e7e34;
+}
