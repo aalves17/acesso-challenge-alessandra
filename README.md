@@ -6,11 +6,13 @@ Alessandra Alves Montanher - https://www.linkedin.com/in/alessandramontanher/
 O sistema AcessoPASS® foi desenvolvido em PHP, SGBD MySQL e framework front-end BootStrap.
 
 Banco de Dados: bd_acesso
-Tabelas: - dados
+Tabelas: - dados<br>
          - usuarios (para login/cadastro)
 
-Usuário previamente criado: - login: aalves
+Usuário previamente criado: - login: aalves<br>
                             - senha: 210694
+                            
+O plano de ação encontra-se no arquivo "PlanoAcao_AlessandraMontanher.pdf"
 
 
 * A página inicial para login/cadastro é index.php
