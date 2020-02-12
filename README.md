@@ -8,10 +8,7 @@ O sistema AcessoPASS® foi desenvolvido em PHP, SGBD MySQL e framework front-end
 Banco de Dados: bd_acesso
 Tabelas: - dados<br>
          - usuarios (para login/cadastro)
-
-Usuário previamente criado: - login: aalves<br>
-                            - senha: 210694
-                            
+                           
 O plano de ação encontra-se no arquivo "PlanoAcao_AlessandraMontanher.pdf"
 
 
